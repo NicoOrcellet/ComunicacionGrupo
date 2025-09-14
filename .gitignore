@@ -1,0 +1,10 @@
+bin/
+obj/
+Debug/
+Release/
+.idea/
+*.sln.iml
+*.DotSettings.user
+*.tmp
+*.cache
+*.local

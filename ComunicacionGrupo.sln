@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodoGrupo", "NodoGrupo\NodoGrupo.csproj", "{B99E1A26-4243-43A9-81CF-297547134530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coordinador", "Coordinador\Coordinador.csproj", "{23A12BF5-DD1A-4A41-8449-5D6113C92AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodoExterno", "NodoExterno\NodoExterno.csproj", "{2EE318E2-6EEF-4B0F-B7B0-EEEF82708A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99E1A26-4243-43A9-81CF-297547134530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99E1A26-4243-43A9-81CF-297547134530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99E1A26-4243-43A9-81CF-297547134530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99E1A26-4243-43A9-81CF-297547134530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A12BF5-DD1A-4A41-8449-5D6113C92AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A12BF5-DD1A-4A41-8449-5D6113C92AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A12BF5-DD1A-4A41-8449-5D6113C92AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A12BF5-DD1A-4A41-8449-5D6113C92AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE318E2-6EEF-4B0F-B7B0-EEEF82708A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE318E2-6EEF-4B0F-B7B0-EEEF82708A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE318E2-6EEF-4B0F-B7B0-EEEF82708A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE318E2-6EEF-4B0F-B7B0-EEEF82708A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
